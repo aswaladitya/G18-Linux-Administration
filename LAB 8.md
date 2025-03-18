@@ -7,4 +7,7 @@ Use redirection operators to store the output of commands.
 
 Write shell scripts to print system information ----
 
+![Example Image](images/lab8/S1.png)
+
+
 
