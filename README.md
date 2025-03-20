@@ -104,7 +104,7 @@ This project is licensed under the MIT License
 
 ## 📞 Contact
 
-📧 **Email:** phantomlonewolf1@gmail.com.com  
+📧 **Email:** phantomlonewolf1@gmail.com
  
 
 ---
