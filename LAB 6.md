@@ -51,4 +51,5 @@ sudo userdel operator3
 ```
 
 ## 🖼️ **Screenshot**  
-![Lab 6 Screenshot](lab6.png)
+![image](https://github.com/user-attachments/assets/e550c734-3aa9-4593-8958-72b9739b8a88)
+
