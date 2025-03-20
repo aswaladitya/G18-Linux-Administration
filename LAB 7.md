@@ -43,6 +43,8 @@ Grant read (`r`), write (`w`), and execute (`x`) permissions to all (`u`, `g`, a
 chmod ugo+rwx example.txt
 ```
 
+![image](https://github.com/user-attachments/assets/b0144e60-b868-4e81-8112-7cf0da775249)
+
 ---
 
 #### **Using Octal Mode:**  
@@ -57,7 +59,8 @@ Make a file **read and write** for owner only:
 chmod 600 example.txt
 ```
 
+![image](https://github.com/user-attachments/assets/b00137bc-a06e-4a1e-ad54-85ce98535e83)
+
 ---
 
-## 🖼️ **Screenshot**  
-![Lab 7 Screenshot](lab7.png)
+
