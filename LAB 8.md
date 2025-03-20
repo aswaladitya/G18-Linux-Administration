@@ -33,6 +33,8 @@ ls -l > output.txt
 ```
 
 ## 🖼️ **Screenshots**  
-![Lab 8 Screenshot](lab8.png)
+![image](https://github.com/user-attachments/assets/f312ac9e-2812-4fd8-8ee3-65cb0d2be358)
 
-![Lab 8 Screenshot](lab8b.png)
+
+![image](https://github.com/user-attachments/assets/3ec97594-c8ea-4cc3-8c73-58bab2d44703)
+
