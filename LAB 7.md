@@ -21,6 +21,8 @@ Change ownership of a directory and all its contents:
 chown -R user1:group1 /path/to/directory
 ```
 
+![image](https://github.com/user-attachments/assets/d95bf0b1-5fb3-4730-87e9-db811a5f59b5)
+
 ---
 
 ### 2️⃣ **Modify File Permissions (`chmod`)**  
