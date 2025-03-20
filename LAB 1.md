@@ -20,4 +20,5 @@ mkdir friends family work
 ````
 
 ## 🖼️ **Screenshot**  
-![Lab 1 Screenshot](lab1.png)
+![image](https://github.com/user-attachments/assets/59c7bcf0-eb7f-47b1-be64-ed6aeba72806)
+
