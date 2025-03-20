@@ -36,7 +36,7 @@
 
 ### 🔧 **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/aswaladitya/G18-Linux-Administration
 cd your-repo
 ```
 
