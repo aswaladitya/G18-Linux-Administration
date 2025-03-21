@@ -1,11 +1,11 @@
 # G18-Linux-Administration 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub Repo stars](https://img.shields.io/github/stars/aswaladitya/G18-Linux-Administration?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aswaladitya/G18-Linux-Administration?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/aswaladitya/G18-Linux-Administration)
+![GitHub issues](https://img.shields.io/github/issues/aswaladitya/G18-Linux-Administration)
+![GitHub last commit](https://img.shields.io/github/last-commit/aswaladitya/G18-Linux-Administration)
+![GitHub license](https://img.shields.io/github/license/aswaladitya/G18-Linux-Administration)
 
 ---
 
